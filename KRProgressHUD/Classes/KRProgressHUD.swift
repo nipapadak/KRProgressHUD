@@ -92,11 +92,11 @@ public final class KRProgressHUD {
         fileprivate init() {}
     }
 
-    static let shared = KRProgressHUD()
+    public static let shared = KRProgressHUD()
 
     let viewAppearance = KRProgressHUDAppearance()
 
-    let window = UIWindow(frame: UIScreen.main.bounds)
+    public let window = UIWindow(frame: UIScreen.main.bounds)
     let hudViewController = KRProgressHUDViewController()
 
     let hudView = UIView()
