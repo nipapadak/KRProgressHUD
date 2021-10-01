@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "KRActivityIndicatorView",
+        "repositoryURL": "https://github.com/nipapadak/KRActivityIndicatorView.git",
+        "state": {
+          "branch": "release-3.0.7-rb",
+          "revision": "39469ef5e0403270e531e7302fa8a34bb13278dc",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
